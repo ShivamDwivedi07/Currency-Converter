@@ -19,9 +19,7 @@ body{
 
 form{
     margin: 2rem 0 1rem 0;
-
 }
-
 form select , button , input{
     width: 100%;
     border: none;
